@@ -1,6 +1,6 @@
 # Ansible Role: MOTD (Message Of the Day)
 
-[![CI](https://github.com/lucab85/ansible-role-motd/workflows/CI/badge.svg?event=push)](https://github.com/lucab85/ansible-role-motd/actions?query=workflow%3ACI)
+[![CI](https://github.com/lucab85/ansible-role-motd/actions/workflows/ci.yml/badge.svg)](https://github.com/lucab85/ansible-role-motd/actions/workflows/ci.yml)
 
 Installs and configures the MOTD (Message Of The Day) on Fedora/Centos/RHEL7/8 and Debian/Ubuntu target.
 
