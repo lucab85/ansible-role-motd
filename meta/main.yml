@@ -23,18 +23,6 @@ galaxy_info:
     - name: Amazon
       versions:
         - all
-    - name: Google
-      versions:
-        - all
-    - name: Azure
-      versions:
-        - all
-    - name: ovirt
-      versions:
-        - all
-    - name: openstack
-      versions:
-        - all
 
   galaxy_tags:
     - motd
