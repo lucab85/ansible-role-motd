@@ -2,7 +2,7 @@
 galaxy_info:
   author: lucab85
   description:
-    Setup the MOTD (Message Of The Day) on Fedora/Centos/RHEL7/8 and Debian/Ubuntu target.
+    Setup the MOTD (Message Of The Day) on Fedora/Centos/RHEL7/8, Debian/Ubuntu and Amazon target.
   company: Luca Berton
   license: "license (BSD, MIT)"
   min_ansible_version: 2.7
