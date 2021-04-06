@@ -3,3 +3,7 @@
   template:
     src: motd.j2
     dest: "{{ motd_file }}"
+    owner: "{{ motd_owner }}"
+    group: "{{ motd_group }}"
+    mode: "{{ motd_mode }}"
+    setype: "{{ motd_setype }}"

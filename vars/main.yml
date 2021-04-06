@@ -1,2 +1,6 @@
 ---
 motd_file: /etc/motd
+motd_owner: root
+motd_group: root
+motd_mode: 0644
+motd_setype: "system_u"
