@@ -1,0 +1,5 @@
+---
+- name: Create MOTD file
+  template:
+    src: motd.j2
+    dest: "{{ motd_file }}"
