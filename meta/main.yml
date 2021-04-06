@@ -20,6 +20,21 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
+    - name: Amazon
+      versions:
+        - all
+    - name: Google
+      versions:
+        - all
+    - name: Azure
+      versions:
+        - all
+    - name: ovirt
+      versions:
+        - all
+    - name: openstack
+      versions:
+        - all
 
   galaxy_tags:
     - motd
@@ -28,3 +43,9 @@ galaxy_info:
     - debian
     - ubuntu
     - fedora
+    - amazon
+    - aws
+    - linux
+    - google
+    - azure
+    - openstack
