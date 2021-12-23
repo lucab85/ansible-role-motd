@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: ansible_role_motd
   author: lucab85
   description:
     Setup the MOTD (Message Of The Day) on Fedora/Centos/RHEL7/8, Debian/Ubuntu and Amazon target.
